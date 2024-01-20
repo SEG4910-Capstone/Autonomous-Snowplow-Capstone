@@ -1,1 +1,22 @@
-# Autonomous-Snowplow-Capstone
+#  SEG Capstone Project - Autonomous Snowplow Components
+- Academic Team Management group: T89
+- Brightspace Group: 23
+## 1. Project Description and Goals
+Develop essential components of the autonomous snowplow ranging from low level drivers for translating high level commands into electrical signals all the way to simulating then testing the software developed for autonomous driving of the vehicle
+
+## 2. Student names
+- Azan Mubashar
+- Mohanad Mohamed
+- Samuel Okakwu
+- Deborah Oyetoran
+- Joon Lee
+- Harieshan Elamurugan
+
+## 3. Customer name
+Nicholas Schmidt
+
+## 4. Customer affiliation
+Founder and President of UOttawa Autonomous Vehicle Team https://www.uottawa.ca/faculty-engineering/student-experience/competitive-teams
+
+## 5. Customer email
+nschm080@uottawa.ca
