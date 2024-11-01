@@ -13,10 +13,10 @@ Develop essential components of the autonomous snowplow ranging from low level d
 - Harieshan Elamurugan
 
 ## 3. Customer name
-Nicholas Schmidt
+Jake Mol (was Nicholas Schmidt for the first term)
 
 ## 4. Customer affiliation
 Founder and President of UOttawa Autonomous Vehicle Team https://www.uottawa.ca/faculty-engineering/student-experience/competitive-teams
 
 ## 5. Customer email
-nschm080@uottawa.ca
+Jmol071@uottawa.ca (was Nicholas - nschm080@uottawa.ca for the first term)
